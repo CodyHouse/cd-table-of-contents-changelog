@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.0] - 2021-03-24
+- New Toc collapsed version (optimized for mobile)
+
 ## [1.0.2] - 2020-11-16
 - Removed unused Toc object property
 
